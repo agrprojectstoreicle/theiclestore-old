@@ -1,2 +1,2 @@
-# rise22project
+# project22
 This is test project
