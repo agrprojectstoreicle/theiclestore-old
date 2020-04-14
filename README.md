@@ -1,2 +1,2 @@
-# project22
+# project
 This is test project
